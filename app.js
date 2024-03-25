@@ -8,7 +8,6 @@ connectDB(process.env.MONGODB_URL)
     app.get('/', (req, res) => {
       res.send('Hi i am live');
     });
-    app.use('/api/products', require('./routes/product'));
     app.listen(PORT, () => {
       console.log(`Server is running on port ${PORT}`);
     });
@@ -16,3 +15,4 @@ connectDB(process.env.MONGODB_URL)
   .catch((error) => {
     console.error('Error connecting to the database:', error);
   });
+  app.use('/api/products', require('./routes/product'));

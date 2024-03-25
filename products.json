@@ -1,24 +1,58 @@
 [
     {
-        "name":"iphone",
-        "price":154,
-        "feature": true,
-        "company":"apple"
-    },
-    {
+        "img":"https://m.media-amazon.com/images/I/61BGE6iu4AL._AC_UF1000,1000_QL80_.jpg",
         "name":"iphone10",
-        "price":1154,
-        "feature": true,
+        "price":154444,
+        "rating":4.5,
         "company":"apple"
     },
     {
-        "name":"watch",
-        "price":204,
+        "img":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-mini-finish-select-gallery-202211-pink-wifi_AV1_FMT_WHH_GEO_EMEA?wid=1280&hei=720&fmt=p-jpg&qlt=95&.v=1670631638628",
+        "name":"ipad",
+        "price":11541,
+        "rating":4.7,
         "company":"apple"
     },
     {
-        "name":"watch2",
-        "price":204,
+        "img":"https://m.media-amazon.com/images/I/418U7IXCa0L._AC_UF1000,1000_QL80_.jpg",
+        "name":"laptop",
+        "price":115411,
+        "rating":4.1,
+        "company":"dell"
+    },
+    {
+        "img":"https://s3n.cashify.in/cashify/product/img/xhdpi/be37b091-1ab2.jpg",
+        "name":"iwatch",
+        "price":20444,
+        "rating":3.8,
+        "company":"apple"
+    },
+    {
+        "img":"https://rukminim2.flixcart.com/image/850/1000/xif0q/television/x/8/a/-original-imagttjpuyzsbzud.jpeg?q=90&crop=false",
+        "name":"Tv",
+        "price":100000,
+        "rating":4.2,
         "company":"samsung"
+    },
+    {
+        "img":"https://5.imimg.com/data5/SELLER/Default/2022/9/JR/CF/BP/98343137/oneplus-nord-buds-ce-wireless-earbuds.jpg",
+        "name":"earbuds",
+        "price":1100,
+        "rating":4.9,
+        "company":"oneplus"
+    },
+    {
+        "img":"https://image01.oneplus.net/ebp/202401/10/1-m00-48-a5-ckvlh2wewbyarnz8aavqa5augzc433.png",
+        "name":"Phone",
+        "price":51000,
+        "rating":4.6    ,
+        "company":"oneplus"
+    },
+    {
+        "img":"https://i.gadgets360cdn.com/products/large/mi-tv-4x-65-1300x800-1568710768.jpg",
+        "name":"Tv",
+        "price":81000,
+        "rating":3.2,
+        "company":"mi"
     }
 ] 
